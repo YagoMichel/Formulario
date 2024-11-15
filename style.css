@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+body{
+    background-color: #CAE9FF;
+    font-family: "Inter", sans-serif;
+}
+ul{
+    list-style: none;
+}
+input, label{
+    display: block;
+    
+}
+input{
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-style: italic;
+}
+#DataForm{
+    background-color: #62B6CB;
+    border-radius: 5px;
+    
+    
+}
+#FlavorForm{
+    background-color: #5FA8D3;
+    border-radius: 5px;
+}
